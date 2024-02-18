@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmLogin</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="login_button_label">Login</string>
+    <string name="username_hint">username/email</string>
+    <string name="greeting_message">Greetings </string>
+</resources>
